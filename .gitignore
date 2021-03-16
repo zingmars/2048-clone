@@ -1,0 +1,6 @@
+Win32/*
+*~
+*.sw[a-p]
+*.local
+*.identcache
+*.res
